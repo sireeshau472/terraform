@@ -1,1 +1,7 @@
+Core Terraform work flow:
++++++++++++++++
+
+1 write - Here you create the core configuration file.
+2 Plan- Heer you can see the changes that are going to be made by terraform.
+3 Apply- This will aplly changes.
 
